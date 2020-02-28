@@ -1,0 +1,11 @@
+C:\Users\Esteban Agreda\Desktop\CHALLENGER\CHALLENGER\obj\Debug\netcoreapp3.1\CHALLENGER.csprojAssemblyReference.cache
+C:\Users\Esteban Agreda\Desktop\CHALLENGER\CHALLENGER\obj\Debug\netcoreapp3.1\CHALLENGER.AssemblyInfoInputs.cache
+C:\Users\Esteban Agreda\Desktop\CHALLENGER\CHALLENGER\obj\Debug\netcoreapp3.1\CHALLENGER.AssemblyInfo.cs
+C:\Users\Esteban Agreda\Desktop\CHALLENGER\CHALLENGER\bin\Debug\netcoreapp3.1\CHALLENGER.exe
+C:\Users\Esteban Agreda\Desktop\CHALLENGER\CHALLENGER\bin\Debug\netcoreapp3.1\CHALLENGER.deps.json
+C:\Users\Esteban Agreda\Desktop\CHALLENGER\CHALLENGER\bin\Debug\netcoreapp3.1\CHALLENGER.runtimeconfig.json
+C:\Users\Esteban Agreda\Desktop\CHALLENGER\CHALLENGER\bin\Debug\netcoreapp3.1\CHALLENGER.runtimeconfig.dev.json
+C:\Users\Esteban Agreda\Desktop\CHALLENGER\CHALLENGER\bin\Debug\netcoreapp3.1\CHALLENGER.dll
+C:\Users\Esteban Agreda\Desktop\CHALLENGER\CHALLENGER\bin\Debug\netcoreapp3.1\CHALLENGER.pdb
+C:\Users\Esteban Agreda\Desktop\CHALLENGER\CHALLENGER\obj\Debug\netcoreapp3.1\CHALLENGER.dll
+C:\Users\Esteban Agreda\Desktop\CHALLENGER\CHALLENGER\obj\Debug\netcoreapp3.1\CHALLENGER.pdb
